@@ -27,4 +27,5 @@
 * Используя цикл *For* к значению переменной **mass** добавляются остальные значения элементов массива array при их наличии
 * Добавляет к значению переменной mass закрывающую квадратную скобку "]".
 * Выводит на экран значение переменной mass.
-**[РЕШЕНИЕ](https://github.com/1am6adman/FinalExample/blob/main/prog/Program.cs).
+
+[РЕШЕНИЕ](https://github.com/1am6adman/FinalExample/blob/main/prog/Program.cs).
