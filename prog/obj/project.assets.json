@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Iam6a\\OneDrive\\Рабочий стол\\Учебный Материал\\FinalExample\\Programm\\Programm.csproj",
+      "projectUniqueName": "C:\\Users\\Iam6a\\OneDrive\\Рабочий стол\\Учебный Материал\\FinalExample\\prog\\Programm.csproj",
       "projectName": "Programm",
-      "projectPath": "C:\\Users\\Iam6a\\OneDrive\\Рабочий стол\\Учебный Материал\\FinalExample\\Programm\\Programm.csproj",
+      "projectPath": "C:\\Users\\Iam6a\\OneDrive\\Рабочий стол\\Учебный Материал\\FinalExample\\prog\\Programm.csproj",
       "packagesPath": "C:\\Users\\Iam6a\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Iam6a\\OneDrive\\Рабочий стол\\Учебный Материал\\FinalExample\\Programm\\obj\\",
+      "outputPath": "C:\\Users\\Iam6a\\OneDrive\\Рабочий стол\\Учебный Материал\\FinalExample\\prog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Iam6a\\AppData\\Roaming\\NuGet\\NuGet.Config"
